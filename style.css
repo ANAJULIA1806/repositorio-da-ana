@@ -1,7 +1,7 @@
 
 body {
 
-background-color: rgba(30, 29, 29, 0.915);
+background-color: rgba(8, 8, 8, 0.915);
 
 color: rgba(191, 204, 12, 0.911);
 
@@ -11,7 +11,7 @@ margin: 0px;
 }
 
 header {
-    font-size: 60px;
+    font-size: 80px;
     text-align: center;
    
     border-bottom: solid 10px red;
